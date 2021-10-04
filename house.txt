@@ -1,0 +1,16 @@
+how much rupee house do we want based on comfort?
+how much initial payment do we want to do?
+what is ratio of house vs cash holdings?
+
+prepayment fees/charges? -> Reduce the tenure (No. of installments)of the Home Loan or Reduce the EMI amount keeping the tenure constant
+first prepayment when can it be done means after how many months or years?
+can the house be taken in joint names also?
+processing fees?
+floating interest rate of bank?
+interest rate -> bank and govt?
+skipping installments?
+transfer of loan to another bank?
+
+in between closure of loan term?
+if unfortunate event occurs like CI or D?
+what happens to the house in above case and what about the amount paid?
