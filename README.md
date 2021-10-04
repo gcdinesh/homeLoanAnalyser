@@ -1,2 +1,2 @@
-# homeLoanAnalyser
-Helps in analysing home loans
+# HomeLoanAnalyser
+Helps in analysing home loans.
